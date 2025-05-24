@@ -44,8 +44,7 @@ Content-Type: application/json
   "name": "Harinath",
   "email": "harinath.ediga23@gmail.com",
   "annualSpend": 24000,
-  "lastPurchaseDate": "2025-05-24",
-  "tier": "1"
+  "lastPurchaseDate": "2025-05-24"
 }
 ```
 
@@ -78,8 +77,7 @@ Content-Type: application/json
   "name": "Harinath",
   "email": "harinath.ediga23@gmail.com",
   "annualSpend": 24000,
-  "lastPurchaseDate": "2025-05-24",
-  "tier": "1"
+  "lastPurchaseDate": "2025-05-24"
 }
 ```
 
