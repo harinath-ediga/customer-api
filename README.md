@@ -15,7 +15,7 @@ This is a Spring Boot RESTful web service for managing customer records. It allo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/customer-app.git
+   git clone https://github.com/harinath-ediga/customer-api.git
    cd customer-app
    ```
 
